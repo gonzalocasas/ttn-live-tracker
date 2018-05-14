@@ -13,11 +13,11 @@
 * Update your `appID` and `accessKey` in the [index.js][index.js] file
 * Install dependencies:
 
-    $ npm install
+        $ npm install
 
 * Run it:
 
-    $ npm start
+        $ npm start
 
 * Browse to [localhost:8080](http://localhost:8080/)
 
