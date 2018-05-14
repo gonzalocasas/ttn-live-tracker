@@ -10,7 +10,7 @@
 ## Getting Started
 
 * Clone this repository and open a terminal in that directory
-* Update your `appID` and `accessKey` in the [index.js][index.js] file
+* Update your `appID` and `accessKey` in the [index.js](index.js) file
 * Install dependencies:
 
         $ npm install
